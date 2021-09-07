@@ -1,2 +1,4 @@
-name input (please enter your name!)
-print(name)
+x = 5
+print(x)
+
+x
